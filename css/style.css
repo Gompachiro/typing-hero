@@ -312,3 +312,13 @@ a span:nth-child(4){
         bottom: 100%;
     }
 }
+
+.credits {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    
+}
+.credits > button {
+    padding: 0px;
+}
